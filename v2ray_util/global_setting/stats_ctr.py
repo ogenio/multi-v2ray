@@ -79,7 +79,7 @@ def manage(stat_type=''):
             print("{}: {}".format(_("{} Traffic Statistics Status".format(run_type.capitalize())), profile.stats.status))
 
             print("")
-            print(_("1.open statistics"))
+            print(_("1.ATIVAR ESTATÍSTICAS"))
             print("")
             print(_("2.close statistics"))
             print("")
