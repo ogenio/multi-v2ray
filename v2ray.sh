@@ -18,7 +18,7 @@ REMOVE=0
 
 CHINESE=0
 
-BASE_SOURCE_PATH="https://multi.netlify.app"
+BASE_SOURCE_PATH="https://github.com/ogenio/multi-v2ray/master"
 
 UTIL_PATH="/etc/v2ray_util/util.cfg"
 
